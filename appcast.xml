@@ -1,22 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
+
+    <item>
+        <title>Version 1.1.2</title>
+        <sparkle:releaseNotesLink>
+            https://github.com/aice-technology/ReplyGuyPal_Mac/releases/tag/v1.1.2
+        </sparkle:releaseNotesLink>
+        <pubDate>Mon, 03 Nov 2025 20:55:14 +0000</pubDate>
+        <enclosure url="https://github.com/aice-technology/ReplyGuyPal-Updates/releases/download/v1.1.2/ReplyGuyPal-1.1.2.zip"
+                   sparkle:version="48"
+                   sparkle:shortVersionString="1.1.2"
+                   length="1907024"
+                   type="application/octet-stream"
+                   sparkle:edSignature="sWh8eZf0NAAxZMg+EbWydSzszNq3qk+3cwLb5hyhA4+3qIovNu9xrxiXdDi9SUQonH9odiyo0qMupzupEcDNCg==" />
+    </item>
         <title>ReplyGuyPal Updates</title>
-        <description>Most recent updates to ReplyGuyPal</description>
+        <link>https://github.com/aice-technology/ReplyGuyPal_Mac</link>
+        <description>Software updates for ReplyGuyPal</description>
         <language>en</language>
 
         <!-- Add new versions at the top -->
+
+        <item>
+            <title>Version 1.1.1</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/aice-technology/ReplyGuyPal_Mac/releases/tag/v1.1.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 03 Nov 2025 18:50:40 +0000</pubDate>
+            <enclosure url="https://github.com/aice-technology/ReplyGuyPal-Updates/releases/download/v1.1.1/ReplyGuyPal-1.1.1.zip"
+                       sparkle:version="44"
+                       sparkle:shortVersionString="1.1.1"
+                       length="1900187"
+                       type="application/octet-stream"
+                       sparkle:edSignature="Zdp/iUpKtwYcaPQKbfM/ze5MLrt39HFBgQOxNXTQma6gY8m/yM7uwxB1UjxP2eSnbPdrAqvcT8Ubu/Il7QgxBg==" />
+        </item>
 
         <item>
             <title>Version 1.0.5</title>
             <sparkle:releaseNotesLink>
                 https://github.com/aice-technology/ReplyGuyPal_Mac/releases/tag/v1.0.5
             </sparkle:releaseNotesLink>
-            <pubDate>Mon, 03 Nov 2025 09:36:43 +0000</pubDate>
-            <enclosure url="https://github.com/aice-technology/ReplyGuyPal-Updates/releases/download/v1.0.5/ReplyGuyPal-1.0.5.zip"
-                       sparkle:version="35"
+            <pubDate>Sun, 02 Nov 2025 10:42:37 +0000</pubDate>
+            <enclosure url="https://github.com/aice-technology/ReplyGuyPal_Mac/releases/download/v1.0.5/ReplyGuyPal-1.0.5.zip"
+                       sparkle:version="22"
                        sparkle:shortVersionString="1.0.5"
-                       length="1897754"
+                       length="1897707"
                        type="application/octet-stream"
                        sparkle:edSignature="JDiZlUOpGWOLl4x6/y2RRTRGEvLFmnsRueXnC2xHTWw26yIwuzueR9pi02yl5CgwrZ4CboTIG7ujx5Fn6gtmAw==" />
         </item>
