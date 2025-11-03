@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
+        <title>ReplyGuyPal Updates</title>
+        <link>https://github.com/aice-technology/ReplyGuyPal_Mac</link>
+        <description>Software updates for ReplyGuyPal</description>
+        <language>en</language>
 
     <item>
         <title>Version 1.1.1</title>
