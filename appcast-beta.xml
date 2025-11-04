@@ -3,6 +3,20 @@
     <channel>
 
     <item>
+        <title>Version 1.1.3-beta.10</title>
+        <sparkle:releaseNotesLink>
+            https://github.com/aice-technology/ReplyGuyPal_Mac/releases/tag/v1.1.3-beta.10
+        </sparkle:releaseNotesLink>
+        <pubDate>Tue, 04 Nov 2025 22:56:15 +0000</pubDate>
+        <enclosure url="https://github.com/aice-technology/ReplyGuyPal-Updates/releases/download/v1.1.3-beta.10/ReplyGuyPal-1.1.3-beta.10.zip"
+                   sparkle:version="56"
+                   sparkle:shortVersionString="1.1.3-beta.10"
+                   length="14462102"
+                   type="application/octet-stream"
+                   sparkle:edSignature="0J8ySpPEq08knUKgJDQkuZeOoSRoWeJjMGSR7hiKszg+x9lsxTrafRa0FE1MbTVSKLdiM44PJZ1gz8JHW3XwBw==" />
+    </item>
+
+    <item>
         <title>Version 1.1.3-beta.6</title>
         <sparkle:releaseNotesLink>
             https://github.com/aice-technology/ReplyGuyPal_Mac/releases/tag/v1.1.3-beta.6
