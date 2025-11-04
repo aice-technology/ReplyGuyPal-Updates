@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+
+    <item>
+        <title>Version 1.1.3-beta.2</title>
+        <sparkle:releaseNotesLink>
+            https://github.com/aice-technology/ReplyGuyPal_Mac/releases/tag/v1.1.3-beta.2
+        </sparkle:releaseNotesLink>
+        <pubDate>Tue, 04 Nov 2025 19:49:35 +0000</pubDate>
+        <enclosure url="https://github.com/aice-technology/ReplyGuyPal-Updates/releases/download/v1.1.3-beta.2/ReplyGuyPal-1.1.3-beta.2.zip"
+                   sparkle:version="51"
+                   sparkle:shortVersionString="1.1.3-beta.2"
+                   length="14462115"
+                   type="application/octet-stream"
+                   sparkle:edSignature="Gmpn9Pl67fSm5Xx/SkO2uDYfLh5PuWtU6oxGgCJXX3iDrhcW5+fpEsqnKqkK6ii1dsk2HFe0e2sNeorkVHliCQ==" />
+    </item>
+        <title>ReplyGuyPal Beta Updates</title>
+        <link>https://raw.githubusercontent.com/rss-aice/ReplyGuyPal2/main/appcast-beta.xml</link>
+        <description>ReplyGuyPal Beta Channel - Pre-release builds for testing new features</description>
+        <language>en</language>
+
+        <!-- Beta releases will be added here automatically by CI/CD -->
+        <!-- Stable releases are also included so beta users can downgrade if needed -->
+
+        <!-- Latest stable release (for reference) -->
+        <item>
+            <title>Version 1.0.2</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/rss-aice/ReplyGuyPal2/releases/tag/v1.0.2
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 29 Oct 2024 17:46:00 +0000</pubDate>
+            <enclosure url="https://github.com/rss-aice/ReplyGuyPal2/releases/download/v1.0.2/ReplyGuyPal2.zip"
+                       sparkle:version="3"
+                       sparkle:shortVersionString="1.0.2"
+                       length="3199052"
+                       type="application/octet-stream"
+                       sparkle:edSignature="qBs9Mt+U1sHsBWs3us1t5C+GpdxlNcCDYzESScRF34arRBlJ1ZHJeW2dvV/dpcGh1kxxDIHqxC9fU1/fFYN8BQ==" />
+        </item>
+
+    </channel>
+</rss>
